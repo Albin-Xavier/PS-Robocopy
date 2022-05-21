@@ -1,6 +1,6 @@
 # Robocopy-PS1
 
-Backup a list of folders using robocopy.
+Backup a list of folders using robocopy. Because this uses robocopy, this will only function on Microsoft Windows.
 
 ## Installation
 
