@@ -1,4 +1,4 @@
-# Robocopy-PS1
+# PS-Robocopy
 
 Backup a list of folders using robocopy. Because this uses robocopy, this will only function on Microsoft Windows.
 
